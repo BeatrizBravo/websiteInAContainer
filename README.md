@@ -1,4 +1,4 @@
-# websiteInAContainer
+# Introduction 
 A containered environment that runs a website using Nginx webserver
 
 # Run the script
